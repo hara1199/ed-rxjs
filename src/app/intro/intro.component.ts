@@ -1,4 +1,4 @@
-import { SongService } from './../services/song.service';
+import { SongService } from '../services/song.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
